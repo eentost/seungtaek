@@ -1,5 +1,7 @@
 # seungtaek
 hello_seungtaek
+For a simple example of a vector-based malware detection workflow, see [VECTOR_PIPELINE.md](VECTOR_PIPELINE.md).
+
 
 # AI for Security
 
